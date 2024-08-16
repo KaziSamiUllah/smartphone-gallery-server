@@ -1,7 +1,6 @@
 const express = require("express");
 const app = express();
-const cors = require("cors")
-
+const cors = require("cors");
 
 app.use(express.json());
 app.use(cors());
@@ -27,22 +26,59 @@ const client = new MongoClient(uri, {
 async function run() {
   try {
     const phoneCollection = client.db("phonesDB").collection("phones");
-
-   
-    app.get("/phones", async (req, res) => {
+    
+    app.get("/category", async (req, res) => {
         const data = phoneCollection.find();
         const result = await data.toArray();
         res.send(result);
       });
 
+    app.get("/phones", async (req, res) => {
+      const {
+        search = "",
+        page = 1,
+        limit = 10,
+        brand,
+        type,
+        price,
+      } = req.query;
+      const skip = (page - 1) * limit;
 
+      // Build query object
+      const query = {};
 
+      if (search) {
+        query.ProductName = { $regex: search, $options: "i" };
+      }
 
+      if (brand) {
+        query.Brand = brand;
+      }
 
+      if (type) {
+        query.Category = type;
+      }
 
+      if (price) {
+        const [minPrice, maxPrice] = price.split("-").map(Number);
+        query.Price = { $gte: minPrice, $lte: maxPrice };
+      }
 
+      const data = phoneCollection
+        .find(query)
+        .skip(skip)
+        .limit(parseInt(limit));
 
+      const result = await data.toArray();
+      const total = await phoneCollection.countDocuments(query);
 
+      res.send({
+        total,
+        page: parseInt(page),
+        limit: parseInt(limit),
+        phones: result,
+      });
+    });
 
     await client.db("admin").command({ ping: 1 });
     console.log(

@@ -1,0 +1,402 @@
+[
+{
+"_id": "66bf66e8883df6225c7737bb",
+"Description": "The Asus ROG Phone 7 is a gaming powerhouse with a 6.78-inch AMOLED display, Snapdragon 8 Gen 2 chip, 512GB storage, and enhanced cooling systems.",
+"Price": 1399.99,
+"Category": "Smartphones",
+"Ratings": 4.8,
+"CreationDate": "2024-08-16T13:15:00Z",
+"ProductImage": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fbludiode.com%2Fen%2Fasus%2Fasus-rog-phone-7-8gb256gb-black-22682%2F&psig=AOvVaw1_O9bg_fsp-TnnTTk4nvXf&ust=1723909727506000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPj8uqru-YcDFQAAAAAdAAAAABB2",
+"ProductName": "Asus ROG Phone 7"
+},
+{
+"_id": "66bf66e8883df6225c7737bc",
+"Description": "The Realme GT 2 Pro features a 6.7-inch AMOLED display, Snapdragon 8 Gen 1 chip, 256GB storage, and a versatile triple-camera system.",
+"Price": 749.99,
+"Category": "Smartphones",
+"Ratings": 4.4,
+"CreationDate": "2024-08-16T13:20:00Z",
+"ProductImage": "https://www.realme.com/images/products/realme-gt-2-pro.png",
+"ProductName": "Realme GT 2 Pro"
+},
+{
+"_id": "66bf66e8883df6225c7737bd",
+"Description": "The Vivo X90 Pro offers a 6.78-inch AMOLED display, MediaTek Dimensity 9200 chip, 256GB storage, and a powerful camera system with Zeiss optics.",
+"Price": 899.99,
+"Category": "Smartphones",
+"Ratings": 4.6,
+"CreationDate": "2024-08-16T13:25:00Z",
+"ProductImage": "https://www.vivo.com/media/images/products/vivo-x90-pro.png",
+"ProductName": "Vivo X90 Pro"
+},
+{
+"_id": "66bf66e8883df6225c7737be",
+"Description": "The Sony Xperia 10 V features a 6.0-inch OLED display, Snapdragon 695 chip, 128GB storage, and a triple-camera system for versatile photography.",
+"Price": 499.99,
+"Category": "Smartphones",
+"Ratings": 4.3,
+"CreationDate": "2024-08-16T13:30:00Z",
+"ProductImage": "https://www.sony.com/media/images/products/sony-xperia-10-v.png",
+"ProductName": "Sony Xperia 10 V"
+},
+{
+"_id": "66bf66e8883df6225c7737bf",
+"Description": "The Galaxy A54 comes with a 6.4-inch Super AMOLED display, Exynos 1380 chip, 128GB storage, and a triple-camera setup.",
+"Price": 549.99,
+"Category": "Smartphones",
+"Ratings": 4.4,
+"CreationDate": "2024-08-16T13:35:00Z",
+"ProductImage": "https://www.samsung.com/media/images/products/galaxy-a54.png",
+"ProductName": "Samsung Galaxy A54"
+},
+{
+"_id": "66bf66e8883df6225c7737c0",
+"Description": "The iPad Air (2024) features a 10.9-inch Liquid Retina display, M1 chip, 64GB storage, and supports the 2nd-gen Apple Pencil.",
+"Price": 649.99,
+"Category": "Tablets",
+"Ratings": 4.8,
+"CreationDate": "2024-08-16T13:40:00Z",
+"ProductImage": "https://www.apple.com/media/images/products/ipad-air-2024.png",
+"ProductName": "Apple iPad Air (2024)"
+},
+{
+"_id": "66bf66e8883df6225c7737c1",
+"Description": "The Lenovo Tab P12 Pro offers a 12.6-inch AMOLED display, Snapdragon 888 chip, 256GB storage, and comes with a Precision Pen 3 for enhanced productivity.",
+"Price": 899.99,
+"Category": "Tablets",
+"Ratings": 4.7,
+"CreationDate": "2024-08-16T13:45:00Z",
+"ProductImage": "https://www.lenovo.com/media/images/products/lenovo-tab-p12-pro.png",
+"ProductName": "Lenovo Tab P12 Pro"
+},
+{
+"_id": "66bf66e8883df6225c7737c2",
+"Description": "The Huawei MatePad Pro 11 features an 11-inch IPS display, Kirin 9000E chip, 128GB storage, and includes a magnetic keyboard and M-Pencil.",
+"Price": 699.99,
+"Category": "Tablets",
+"Ratings": 4.6,
+"CreationDate": "2024-08-16T13:50:00Z",
+"ProductImage": "https://consumer.huawei.com/media/images/products/matepad-pro-11.png",
+"ProductName": "Huawei MatePad Pro 11"
+},
+{
+"_id": "66bf66e8883df6225c7737c3",
+"Description": "The iPhone SE (2024) features a 4.7-inch Retina HD display, A15 Bionic chip, 64GB storage, and a single 12MP camera.",
+"Price": 429.99,
+"Category": "Smartphones",
+"Ratings": 4.5,
+"CreationDate": "2024-08-16T13:55:00Z",
+"ProductImage": "https://www.apple.com/media/images/products/iphone-se-2024.png",
+"ProductName": "Apple iPhone SE (2024)"
+},
+{
+"_id": "66bf66e8883df6225c7737c4",
+"Description": "The Nokia 105 is a basic phone with a 1.8-inch display, durable design, FM radio, and long battery life.",
+"Price": 29.99,
+"Category": "Feature Phones",
+"Ratings": 4.1,
+"CreationDate": "2024-08-16T14:00:00Z",
+"ProductImage": "https://www.nokia.com/media/images/products/nokia-105-2024.png",
+"ProductName": "Nokia 105 (2024)"
+},
+{
+"_id": "66bf66e8883df6225c7737c5",
+"Description": "The Alcatel GO FLIP 4 is a feature phone with a 2.8-inch display, 4G LTE support, and a large keypad for easy dialing.",
+"Price": 99.99,
+"Category": "Feature Phones",
+"Ratings": 4.2,
+"CreationDate": "2024-08-16T14:05:00Z",
+"ProductImage": "https://www.alcatelmobile.com/media/images/products/alcatel-go-flip-4.png",
+"ProductName": "Alcatel GO FLIP 4"
+},
+{
+"_id": "66bf66e8883df6225c7737c6",
+"Description": "The Cat B40 is a rugged feature phone designed for tough environments, featuring a 2.8-inch display, durable casing, and long battery life.",
+"Price": 119.99,
+"Category": "Feature Phones",
+"Ratings": 4.3,
+"CreationDate": "2024-08-16T14:10:00Z",
+"ProductImage": "https://www.catphones.com/media/images/products/cat-b40.png",
+"ProductName": "Cat B40"
+},
+{
+"_id": "66bf66e8883df6225c7737c7",
+"Description": "The Poco F4 GT features a 6.67-inch AMOLED display, Snapdragon 8 Gen 1 chip, 256GB storage, and advanced cooling for gaming performance.",
+"Price": 699.99,
+"Category": "Smartphones",
+"Ratings": 4.4,
+"CreationDate": "2024-08-16T14:15:00Z",
+"ProductImage": "https://www.poco.com/media/images/products/poco-f4-gt.png",
+"ProductName": "Poco F4 GT"
+},
+{
+"_id": "66bf66e8883df6225c7737c8",
+"Description": "The TCL Stylus 5G features a 6.8-inch display, MediaTek Dimensity 700 chip, 256GB storage, and includes a stylus for note-taking and creative tasks.",
+"Price": 399.99,
+"Category": "Smartphones",
+"Ratings": 4.3,
+"CreationDate ": "2024-08-16T14:20:00Z",
+"ProductImage": "https://www.tcl.com/media/images/products/tcl-stylus-5g.png",
+"ProductName": "TCL Stylus 5G"
+},
+{
+"_id": "66bf66e8883df6225c7737c9",
+"Description": "The Galaxy Note 20 Ultra comes with a 6.9-inch Dynamic AMOLED display, Snapdragon 865+ chip, 256GB storage, and S Pen support for productivity.",
+"Price": 949.99,
+"Category": "Smartphones",
+"Ratings": 4.6,
+"CreationDate": "2024-08-16T14:25:00Z",
+"ProductImage": "https://www.samsung.com/media/images/products/galaxy-note-20-ultra.png",
+"ProductName": "Samsung Galaxy Note 20 Ultra"
+},
+{
+"_id": "66bf6e7f883df6225c90c5c8",
+"ProductName": "Xiaomi Mi 11 Ultra",
+"ProductImage": "https://www.mi.com/media/images/products/xiaomi-mi-11-ultra.png",
+"Description": "The Xiaomi Mi 11 Ultra features a 6.81-inch AMOLED display, Snapdragon 888 chip, 256GB storage, and a triple-camera system with a 50MP main sensor.",
+"Price": 899.99,
+"Category": "Smartphones",
+"Ratings": 4.6,
+"CreationDate": "2024-08-16T15:45:00Z"
+},
+{
+"_id": "66bf6e7f883df6225c90c5c9",
+"ProductName": "Google Pixel 7 Pro",
+"ProductImage": "https://store.google.com/media/images/products/pixel-7-pro.png",
+"Description": "The Google Pixel 7 Pro comes with a 6.7-inch OLED display, Google Tensor G2 chip, 128GB storage, and a highly capable camera system with advanced computational photography.",
+"Price": 899.99,
+"Category": "Smartphones",
+"Ratings": 4.7,
+"CreationDate": "2024-08-16T15:50:00Z"
+},
+{
+"_id": "66bf6e7f883df6225c90c5ca",
+"ProductName": "Samsung Galaxy A34",
+"ProductImage": "https://www.samsung.com/media/images/products/galaxy-a34.png",
+"Description": "The Samsung Galaxy A34 features a 6.6-inch Super AMOLED display, Exynos 1280 chip, 128GB storage, and a triple-camera setup.",
+"Price": 399.99,
+"Category": "Smartphones",
+"Ratings": 4.4,
+"CreationDate": "2024-08-16T15:55:00Z"
+},
+{
+"_id": "66bf6e7f883df6225c90c5cb",
+"ProductName": "Nokia X100",
+"ProductImage": "https://www.nokia.com/media/images/products/nokia-x100.png",
+"Description": "The Nokia X100 features a 6.38-inch LCD display, Snapdragon 480 chip, 128GB storage, and supports 5G connectivity.",
+"Price": 349.99,
+"Category": "Smartphones",
+"Ratings": 4.2,
+"CreationDate": "2024-08-16T16:00:00Z"
+},
+{
+"_id": "66bf6e7f883df6225c90c5cc",
+"ProductName": "Oppo Reno 8 Pro",
+"ProductImage": "https://www.oppo.com/media/images/products/oppo-reno-8-pro.png",
+"Description": "The Oppo Reno 8 Pro features a 6.7-inch AMOLED display, MediaTek Dimensity 8100 chip, 256GB storage, and a 50MP main camera with advanced imaging capabilities.",
+"Price": 749.99,
+"Category": "Smartphones",
+"Ratings": 4.5,
+"CreationDate": "2024-08-16T16:05:00Z"
+},
+{
+"_id": "66bf6e7f883df6225c90c5cd",
+"ProductName": "Sony Xperia 10 III",
+"ProductImage": "https://www.sony.com/media/images/products/sony-xperia-10-iii.png",
+"Description": "The Sony Xperia 10 III features a 6.0-inch OLED display, Snapdragon 690 chip, 128GB storage, and a triple-camera system with high-quality optics.",
+"Price": 429.99,
+"Category": "Smartphones",
+"Ratings": 4.3,
+"CreationDate": "2024-08-16T16:10:00Z"
+},
+{
+"_id": "66bf6e7f883df6225c90c5ce",
+"ProductName": "Samsung Galaxy Tab S7 FE",
+"ProductImage": "https://www.samsung.com/media/images/products/galaxy-tab-s7-fe.png",
+"Description": "The Samsung Galaxy Tab S7 FE features a 12.4-inch TFT display, Snapdragon 750G chip, 64GB storage, and includes an S Pen for productivity.",
+"Price": 649.99,
+"Category": "Tablets",
+"Ratings": 4.5,
+"CreationDate": "2024-08-16T16:15:00Z"
+},
+{
+"_id": "66bf6e7f883df6225c90c5cf",
+"ProductName": "Huawei MatePad 11",
+"ProductImage": "https://consumer.huawei.com/media/images/products/huawei-matepad-11.png",
+"Description": "The Huawei MatePad 11 features an 11-inch IPS display, Snapdragon 865 chip, 128GB storage, and supports Huawei's M-Pencil for creative work.",
+"Price": 549.99,
+"Category": "Tablets",
+"Ratings": 4.6,
+"CreationDate": "2024-08-16T16:20:00Z"
+},
+{
+"_id": "66bf6e7f883df6225c90c5d0",
+"ProductName": "Lenovo Tab M10 Plus",
+"ProductImage": "https://www.lenovo.com/media/images/products/lenovo-tab-m10-plus.png",
+"Description": "The Lenovo Tab M10 Plus features a 10.3-inch IPS display, MediaTek Helio P22T chip, 64GB storage, and dual speakers for immersive sound.",
+"Price": 279.99,
+"Category": "Tablets",
+"Ratings": 4.3,
+"CreationDate": "2024-08-16T16:25:00Z"
+},
+{
+"_id": "66bf6e7f883df6225c90c5d1",
+"ProductName": "Apple iPad Mini (2024)",
+"ProductImage": "https://www.apple.com/media/images/products/ipad-mini-2024.png",
+"Description": "The iPad Mini (2024) features an 8.3-inch Liquid Retina display, A15 Bionic chip, 64GB storage, and supports the 2nd-gen Apple Pencil.",
+"Price": 499.99,
+"Category": "Tablets",
+"Ratings": 4.8,
+"CreationDate": "2024-08-16T16:30:00Z"
+},
+{
+"_id": "66bf6e7f883df6225c90c5d2",
+"ProductName": "Jitterbug Smart3",
+"ProductImage": "https://www.lively.com/media/images/products/jitterbug-smart3.png",
+"Description": "The Jitterbug Smart3 features a 6.2-inch display, simple interface, and large icons, designed for ease of use for seniors.",
+"Price": 149.99,
+"Category": "Feature Phones",
+"Ratings": 4.1,
+"CreationDate": "2024-08-16T16:35:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc90",
+"ProductName": "Xiaomi Poco F4",
+"ProductImage": "https://www.mi.com/media/images/products/xiaomi-poco-f4.png",
+"Description": "The Xiaomi Poco F4 features a 6.67-inch AMOLED display, Snapdragon 8+ Gen 1 chip, 256GB storage, and a triple-camera system with a 64MP main sensor.",
+"Price": 499.99,
+"Category": "Smartphones",
+"Ratings": 4.5,
+"CreationDate": "2024-08-16T16:40:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc91",
+"ProductName": "Vivo X80 Pro",
+"ProductImage": "https://www.vivo.com/media/images/products/vivo-x80-pro.png",
+"Description": "The Vivo X80 Pro features a 6.78-inch AMOLED display, MediaTek Dimensity 9000 chip, 256GB storage, and a quad-camera system with a 50MP main sensor.",
+"Price": 799.99,
+"Category": "Smartphones",
+"Ratings": 4.6,
+"CreationDate": "2024-08-16T16:45:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc92",
+"ProductName": "OnePlus 10 Pro",
+"ProductImage": "https://www.oneplus.com/media/images/products/oneplus-10-pro.png",
+"Description": "The OnePlus 10 Pro features a 6.7-inch AMOLED display, Snapdragon 8 Gen 1 chip, 256GB storage, and a Hasselblad camera system for professional-grade photos.",
+"Price": 899.99,
+"Category": "Smartphones",
+"Ratings": 4.7,
+"CreationDate": "2024-08-16T16:50:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc93",
+"ProductName": "Samsung Galaxy Z Fold 4",
+"ProductImage": "https://www.samsung.com/media/images/products/galaxy-z-fold-4.png",
+"Description": "The Samsung Galaxy Z Fold 4 features a 7.6-inch Dynamic AMOLED display when unfolded, Snapdragon 8+ Gen 1 chip, 12GB RAM, and a versatile camera system.",
+"Price": 1799.99,
+"Category": "Smartphones",
+"Ratings": 4.8,
+"CreationDate": "2024-08-16T16:55:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc94",
+"ProductName": "Google Pixel 6a",
+"ProductImage": "https://store.google.com/media/images/products/pixel-6a.png",
+"Description": "The Google Pixel 6a features a 6.1-inch OLED display, Google Tensor chip, 128GB storage, and Google's advanced camera software for high-quality photos.",
+"Price": 449.99,
+"Category": "Smartphones",
+"Ratings": 4.5,
+"CreationDate": "2024-08-16T17:00:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc95",
+"ProductName": "Huawei P50 Pro",
+"ProductImage": "https://consumer.huawei.com/media/images/products/huawei-p50-pro.png",
+"Description": "The Huawei P50 Pro features a 6.6-inch OLED display, Kirin 9000 chip, 256GB storage, and a Leica quad-camera system for exceptional photography.",
+"Price": 999.99,
+"Category": "Smartphones",
+"Ratings": 4.6,
+"CreationDate": "2024-08-16T17:05:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc96",
+"ProductName": "Asus ROG Phone 6",
+"ProductImage": "https://www.asus.com/media/images/products/rog-phone-6.png",
+"Description": "The Asus ROG Phone 6 features a 6.78-inch AMOLED display, Snapdragon 8+ Gen 1 chip, 256GB storage, and is designed for gaming with a high refresh rate screen.",
+"Price": 999.99,
+"Category": "Smartphones",
+"Ratings": 4.7,
+"CreationDate": "2024-08-16T17:10:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc97",
+"ProductName": "Sony Xperia 1 IV",
+"ProductImage": "https://www.sony.com/media/images/products/sony-xperia-1-iv.png",
+"Description": "The Sony Xperia 1 IV features a 6.5-inch 4K OLED display, Snapdragon 8 Gen 1 chip, 256GB storage, and a triple-camera system for high-resolution photography.",
+"Price": 1199.99,
+"Category": "Smartphones",
+"Ratings": 4.8,
+"CreationDate": "2024-08-16T17:15:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc98",
+"ProductName": "Apple iPad Air (2024)",
+"ProductImage": "https://www.apple.com/media/images/products/ipad-air-2024.png",
+"Description": "The iPad Air (2024) features a 10.9-inch Liquid Retina display, M1 chip, 64GB storage, and supports the 2nd-gen Apple Pencil for creative tasks.",
+"Price": 599.99,
+"Category": "Tablets",
+"Ratings": 4.7,
+"CreationDate": "2024-08-16T17:20:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc99",
+"ProductName": "Lenovo Yoga Tab 13",
+"ProductImage": "https://www.lenovo.com/media/images/products/lenovo-yoga-tab-13.png",
+"Description": "The Lenovo Yoga Tab 13 features a 13-inch IPS LCD display, Snapdragon 870 chip, 128GB storage, and a built-in kickstand for versatile use.",
+"Price": 699.99,
+"Category": "Tablets",
+"Ratings": 4.6,
+"CreationDate": "2024-08-16T17:25:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc9a",
+"ProductName": "Microsoft Surface Go 3",
+"ProductImage": "https://www.microsoft.com/media/images/products/surface-go-3.png",
+"Description": "The Microsoft Surface Go 3 features a 10.5-inch PixelSense display, Intel Pentium Gold chip, 64GB storage, and includes a Type Cover for a laptop-like experience.",
+"Price": 399.99,
+"Category": "Tablets",
+"Ratings": 4.4,
+"CreationDate": "2024-08-16T17:30:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc9b",
+"ProductName": "Samsung Galaxy Tab S6 Lite",
+"ProductImage": "https://www.samsung.com/media/images/products/galaxy-tab-s6-lite.png",
+"Description": "The Samsung Galaxy Tab S6 Lite features a 10.4-inch TFT display, Exynos 9611 chip, 64GB storage, and includes an S Pen for note-taking and drawing.",
+"Price": 349.99,
+"Category": "Tablets",
+"Ratings": 4.3,
+"CreationDate": "2024-08-16T17:35:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc9c",
+"ProductName": "Alcatel Go Flip 4",
+"ProductImage": "https://www.alcatel-mobile.com/media/images/products/alcatel-go-flip-4.png",
+"Description": "The Alcatel Go Flip 4 features a 2.8-inch display, KaiOS, and a 2MP rear camera, designed for basic phone use and ease of access.",
+"Price": 89.99,
+"Category": "Feature Phones",
+"Ratings": 4.1,
+"CreationDate": "2024-08-16T17:40:00Z"
+},
+{
+"_id": "66bf6eec883df6225c91fc9d",
+"ProductName": "Doro 7030",
+"ProductImage": "https://www.doro.com/media/images/products/doro-7030.png",
+"Description": "The Doro 7030 features a 2.8-inch display, large buttons, and an easy-to-use interface, designed for seniors and those who need a simple phone.",
+"Price": 129.99,
+"Category": "Feature Phones",
+"Ratings": 4.2,
+"CreationDate": "2024-08-16T17:45:00Z"
+}
+]
