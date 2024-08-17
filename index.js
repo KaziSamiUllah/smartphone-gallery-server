@@ -3,7 +3,16 @@ const app = express();
 const cors = require("cors");
 
 app.use(express.json());
-app.use(cors());
+app.use(
+  cors({
+    origin: [
+      "http://localhost:5173",
+      "https://smartphone-gallery-client.vercel.app",
+    ],
+    credentials: true,
+    optionSuccessStatus: 200,
+  })
+);
 
 // Basic route
 app.get("/", (req, res) => {
@@ -26,12 +35,12 @@ const client = new MongoClient(uri, {
 async function run() {
   try {
     const phoneCollection = client.db("phonesDB").collection("phones");
-    
+
     app.get("/category", async (req, res) => {
-        const data = phoneCollection.find();
-        const result = await data.toArray();
-        res.send(result);
-      });
+      const data = phoneCollection.find();
+      const result = await data.toArray();
+      res.send(result);
+    });
 
     app.get("/phones", async (req, res) => {
       const {
